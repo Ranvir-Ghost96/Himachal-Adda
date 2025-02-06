@@ -1,2 +1,2 @@
-# Himachal-Adda
-An appealing tourism website with a geospatial mapping application.
+<h1>Himachal Adda</h1>
+<p>A travel website created in Reactjs.</p>
